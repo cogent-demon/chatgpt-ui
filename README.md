@@ -1,12 +1,12 @@
-# Chatbot UI
+# Chatgpt UI
 
-Chatbot UI is an open source chat UI for AI models.
+Chatgpt UI is an open source chat UI for AI models.
 
-![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
+![Chatgpt UI](./public/screenshots/screenshot-0402023.jpg)
 
 ## Updates
 
-Chatbot UI will be updated over time.
+Chatgpt UI will be updated over time.
 
 Expect frequent improvements.
 
@@ -19,7 +19,7 @@ Expect frequent improvements.
 
 **Vercel**
 
-Host your own live version of Chatbot UI with Vercel.
+Host your own live version of Chatgpt UI with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
